@@ -5,7 +5,7 @@ A terminal-based version of Settlers of Catan for our final project for CS 3110,
 * Install `homebrew`
 * Install `gpatch` and `opam` on homebrew using `brew install`
 * Install `dune` and `ANSITerminal` on opam
-* Use command `make play` to run and `make test` to test
+* Use command `make play` to run and `make test` to run the test suite
 
 ## Authors
 - Emmett Breen
