@@ -1,4 +1,0 @@
-(library
- (name catan)
- (public_name Catan)
- (libraries ANSITerminal))
